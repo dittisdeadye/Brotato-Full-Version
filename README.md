@@ -270,4 +270,4 @@ This repository serves as the official landing page for Brotato. The software is
 **Get the most recent version of Brotato today!**
 
 ---
-**Last updated:** 2026-09-08 23:08:21 UTC
+**Last updated:** 2026-09-09 02:48:51 UTC
